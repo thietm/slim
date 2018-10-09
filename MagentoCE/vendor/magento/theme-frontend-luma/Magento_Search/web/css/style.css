@@ -1,0 +1,5 @@
+input#search {
+    margin: -2px;
+    padding-right: 65px;
+    position: static;
+}
